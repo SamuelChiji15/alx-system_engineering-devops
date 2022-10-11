@@ -1,2 +1,2 @@
 #!/bin/bash
-head --lines= iacta | tail --lines=
+head --lines= iacta | tail --lines=1
